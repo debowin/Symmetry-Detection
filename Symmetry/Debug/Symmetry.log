@@ -1,0 +1,30 @@
+﻿Build started 07-Jun-14 12:49:39 AM.
+     1>Project "H:\FINAL SOURCE CODE\Symmetry1\Symmetry\Symmetry.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Symmetry Main.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Algorithm\Skeleton.cpp Algorithm\Skeletonization.cpp DataMgr.cpp Filters.cpp GlobalFunction.cpp grid.cpp Main.CPP ParameterMgr.cpp
+         ParameterMgr.cpp
+         Main.CPP
+     1>h:\final source code\symmetry1\symmetry\CMesh.h(3): fatal error C1083: Cannot open include file: 'vcg/simplex/vertex/base.h': No such file or directory
+         grid.cpp
+     1>h:\final source code\symmetry1\symmetry\cmesh.h(3): fatal error C1083: Cannot open include file: 'vcg/simplex/vertex/base.h': No such file or directory
+         GlobalFunction.cpp
+     1>h:\final source code\symmetry1\symmetry\cmesh.h(3): fatal error C1083: Cannot open include file: 'vcg/simplex/vertex/base.h': No such file or directory
+         Filters.cpp
+     1>h:\final source code\symmetry1\symmetry\CMesh.h(3): fatal error C1083: Cannot open include file: 'vcg/simplex/vertex/base.h': No such file or directory
+         DataMgr.cpp
+     1>h:\final source code\symmetry1\symmetry\CMesh.h(3): fatal error C1083: Cannot open include file: 'vcg/simplex/vertex/base.h': No such file or directory
+         Skeletonization.cpp
+     1>h:\final source code\symmetry1\symmetry\CMesh.h(3): fatal error C1083: Cannot open include file: 'vcg/simplex/vertex/base.h': No such file or directory
+         Skeleton.cpp
+     1>h:\final source code\symmetry1\symmetry\CMesh.h(3): fatal error C1083: Cannot open include file: 'vcg/simplex/vertex/base.h': No such file or directory
+         Generating Code...
+     1>h:\final source code\symmetry1\symmetry\parametermgr.cpp(45): warning C4715: 'SkeleParameterSet::getBool' : not all control paths return a value
+     1>h:\final source code\symmetry1\symmetry\parametermgr.cpp(52): warning C4715: 'SkeleParameterSet::getInt' : not all control paths return a value
+     1>h:\final source code\symmetry1\symmetry\parametermgr.cpp(129): warning C4715: 'SkeleParameterSet::getDouble' : not all control paths return a value
+     1>Done Building Project "H:\FINAL SOURCE CODE\Symmetry1\Symmetry\Symmetry.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:13.75

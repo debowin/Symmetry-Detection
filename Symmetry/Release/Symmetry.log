@@ -1,0 +1,44 @@
+﻿Build started 07-Jun-14 1:09:19 AM.
+     1>Project "H:\FINAL SOURCE CODE\Symmetry1\Symmetry\Symmetry.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Symmetry Main.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /Ox /Oi /Ot /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Algorithm\Skeleton.cpp Algorithm\Skeletonization.cpp DataMgr.cpp Filters.cpp GlobalFunction.cpp grid.cpp Main.CPP ParameterMgr.cpp
+         Skeleton.cpp
+         Skeletonization.cpp
+         DataMgr.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2209): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2218): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2232): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2379): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2386): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2446): warning C4002: too many actual parameters for macro 'assert'
+         Filters.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2209): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2218): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2232): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2379): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2386): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2446): warning C4002: too many actual parameters for macro 'assert'
+         GlobalFunction.cpp
+         grid.cpp
+         Main.CPP
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2209): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2218): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2232): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2379): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2386): warning C4002: too many actual parameters for macro 'assert'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory(2446): warning C4002: too many actual parameters for macro 'assert'
+         ParameterMgr.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\FINAL SOURCE CODE\Symmetry1\Release\Symmetry Main.exe" /INCREMENTAL:NO /NOLOGO VCG.lib ANND.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Symmetry Main.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"H:\FINAL SOURCE CODE\Symmetry1\Release\Symmetry Main.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\FINAL SOURCE CODE\Symmetry1\Release\Symmetry Main.lib" /MACHINE:X86 Release\Skeleton.obj
+         Release\Skeletonization.obj
+         Release\DataMgr.obj
+         Release\Filters.obj
+         Release\GlobalFunction.obj
+         Release\grid.obj
+         Release\Main.obj
+         Release\ParameterMgr.obj
+            Creating library H:\FINAL SOURCE CODE\Symmetry1\Release\Symmetry Main.lib and object H:\FINAL SOURCE CODE\Symmetry1\Release\Symmetry Main.exp
+         Generating code
